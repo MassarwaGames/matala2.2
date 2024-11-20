@@ -33,7 +33,7 @@ This repository contains feedback and analysis for game ideas from other groups.
 
 You can access the complete feedback and detailed answers in the PDF file linked below:
 
-[מתגלגלת.PDF](./מתגלגלת.PDF)
+[מתגלגלת.PDF](./מתגלגלת.odf)
 
 ---
 
