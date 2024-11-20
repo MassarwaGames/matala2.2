@@ -9,14 +9,20 @@ This repository contains feedback and analysis for game ideas from other groups.
 1. **Ghost Slayer**
    - A dark, thrilling game where players must light up a haunted village while avoiding ghosts.
    - Includes feedback on title, puzzle clarity, and mechanics of lighting houses.
+   - **Link to Issue**:
+   [issue](https://github.com/Our-Unique-Game/Ghost-Slayer/issues/1#issue-2672197959)
 
 2. **Stranger Danger**
    - A fast-paced game focusing on protecting a mansion with crafted traps against thieves.
    - Feedback includes crafting system clarity, variety in gameplay, and difficulty progression.
+   - **Link to Issue**:
+   [issue](https://github.com/Our-Unique-Game/Stranger-Danger/issues/1#issue-2672231209)
 
 3. **School Escape**
    - A fun and educational game where players solve puzzles in subjects like math and programming to escape school.
    - Suggestions provided for improving puzzle progression, avoiding security checks, and enhancing replayability.
+   - **Link to Issue**:
+   [issue](https://github.com/Our-Unique-Game/School-Escape/issues/2#issue-2672222595)
 
 ---
 
